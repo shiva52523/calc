@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "19094ca5-e730-4350-8609-446327838ca2"
+      }
+    },
+    "android": {
+      "package": "com.shiva52523.calc"
+    }
+  }
+}
